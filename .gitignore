@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ShapeAbstract/.vs/ShapeAbstract
+/ShapeAbstract/ShapeAbstract/bin/
+/ShapeAbstract/ShapeAbstract/obj
